@@ -4,7 +4,7 @@ An advanced **Dual-Mode Agentic AI Platform** powered by **LangGraph**, **Groq L
 
 This application bridges the gap between hiring managers and job seekers by delivering structured executive recruitment intelligence alongside precision ATS resume optimization and match scoring.
 
-🔗 **Live Demo App:** Click Here to Access the Live Application => [ https://recruiter-candidate-ai-app-y7xpwcqzyypramgaxbd2bi.streamlit.app/ ]
+🔗 **Live Demo App:** Click Here to Access the Live Application => **Paste your Job Description or Resume to test..!** => [ https://recruiter-candidate-ai-app-y7xpwcqzyypramgaxbd2bi.streamlit.app/ ] 
 
 ---
 
