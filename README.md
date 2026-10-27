@@ -4,14 +4,14 @@ An advanced **Dual-Mode Agentic AI Platform** powered by **LangGraph**, **Groq L
 
 This application bridges the gap between hiring managers and job seekers by delivering structured executive recruitment intelligence alongside precision ATS resume optimization and match scoring.
 
-🔗 **Live Demo App:** [Click Here to Access the Live Application](https://share.streamlit.io/) *(Replace with your Streamlit App URL)*
+🔗 **Live Demo App:** Click Here to Access the Live Application => [ https://recruiter-candidate-ai-app-y7xpwcqzyypramgaxbd2bi.streamlit.app/ ]
 
 ---
 
 ## 📌 Application Screenshots
 
 ### 1. Main Dashboard & Dual Input Interface
-![Main Dashboard](Assets/Outcome%20-%20Analysis(Dashboard).png)
+![Main Dashboard](Assets/.Outcome%20-%20Analysis(Dashboard).png)
 
 ### 2. Recruiter View: Executive Hiring Report
 ![Recruiter Executive Report](Assets/Outcome%20-%20Executive-Report(Recruiter).png)
