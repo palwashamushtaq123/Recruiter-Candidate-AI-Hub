@@ -11,7 +11,7 @@ This application bridges the gap between hiring managers and job seekers by deli
 ## 📌 Application Screenshots
 
 ### 1. Main Dashboard & Dual Input Interface
-![Main Dashboard](Assets/.Outcome%20-%20Analysis(Dashboard).png)
+![Main Dashboard](Assets/.Outcome%20-%20Main%20Dashboard%20&%20Dual%20Input%20Interface.png)
 
 ### 2. Recruiter View: Executive Hiring Report
 ![Recruiter Executive Report](Assets/Outcome%20-%20Executive-Report(Recruiter).png)
